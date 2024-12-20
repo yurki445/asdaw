@@ -34,7 +34,7 @@ local Window = Rayfield:CreateWindow({
    }
 })
 
-local mainTab = Window:CreateTab("scripts", 4483362458) -- Title, Image
+local MainTab = Window:CreateTab("scripts", 4483362458) -- Title, Image
 
 local Button = MainTab:CreateButton({
    Name = "realredz",
