@@ -59,8 +59,8 @@ local Button = MainTab:CreateButton({
 })
 
 local Button = MainTab:CreateButton({
-   Name = "more soon hopefully",
+   Name = "ThunderZ-HUB(best one)",
    Callback = function()
-   -- The function that takes place when the button is pressed
+ loadstring(game:HttpGet("https://raw.githubusercontent.com/ThunderZ-HUB/HUB/main/Script"))()
    end,
 })
